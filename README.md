@@ -6,7 +6,8 @@ Advent of Code 2021
 * Link: https://adventofcode.com/
 
 ## Approach
-| Day            | Language     | Approach                             |
+| Day            | Tool     | Approach                             |
 | :------------- | :----------: | -----------:                         |
-| 1              | Python       |  |
-| 2              |        |  |
+| 1 | Python|  enumerate lists|
+| 2 | Python|  iterate dataframe|
+| 3 |TBD|TBD|
